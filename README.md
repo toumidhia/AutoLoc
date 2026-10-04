@@ -38,9 +38,8 @@ Projet réalisé dans le cadre de l'UP ASI (Architecture des Systèmes d'Informa
 
 ## Équipe
 
-- Prénom Nom
-- Prénom Nom
-
+- Dhia Toumi
+  
 ## Environnement de développement
 
 Voir la preuve de l'environnement opérationnel : `docs/environnement.png`
